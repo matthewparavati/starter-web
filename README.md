@@ -16,6 +16,8 @@ This is a simple web project, can be deployed on any simple server.
 
 ## How To Contribute
 
+Please fork this repository and then issue Pull Requests for review.
+
 ### Copyright
 
 2020 MP
