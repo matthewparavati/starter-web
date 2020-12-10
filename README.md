@@ -15,3 +15,7 @@ Purpose is to learn and practice Git and Github.
 This is a simple web project, can be deployed on any simple server.
 
 ## How To Contribute
+
+### Copyright
+
+2020 MP
